@@ -58,7 +58,7 @@ This is the personal portfolio website for Abdul Faheem, a web developer and Pyt
 - **Phone**: +91 93913 84760
 - **LinkedIn**: [Ahmed Abdul Faheem](https://www.linkedin.com/in/ahmed-abdul-faheem/)
 - **Twitter**: [@AbdulFaheem015](https://x.com/AbdulFaheem015?t=VoeueD-Y_4yisl-u9BFV4w&s=08)
-- **GitHub**: [ahmed20455](https://github.com/ahmed20455)
+- **GitHub**: [faheem-a1](https://github.com/faheem-a1)
 
 ---
 
