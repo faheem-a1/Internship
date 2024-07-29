@@ -35,7 +35,7 @@ This is the personal portfolio website for Abdul Faheem, a web developer and Pyt
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com//portfolio.git
+    git clone https://github.com/faheem-a1/Internship.git
     ```
 
 2. Navigate to the project directory:
